@@ -2,7 +2,7 @@
 
 An AI model implemented with PyTorch that can achieve an high accuracy rate in classifying Retinal OCT Images into four different disease categories making it a possibly valuable tool for medical professionals in the field of ophthalmology.
 
-<div></div>
+<h2 align="center"></h1>
 
 **Dataset used:** **https://www.kaggle.com/datasets/paultimothymooney/kermany2018**
 
